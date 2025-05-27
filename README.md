@@ -2,7 +2,7 @@
 
 A powerful Telegram bot to download **Pinterest** images and videos just by sending the link.  
 Built with Python using the **Aiogram** library.
-Check our [Telebot version here](https://t.me/lmmm5) 🎖️
+Check our [Telebot version here](https://github.com/im-Hemo/Pinterest-telegram-bot.git) 🎖️
 
 ![Preview](https://i.ibb.co/0yzZHrjc/image.jpg)
 
@@ -24,7 +24,7 @@ Check our [Telebot version here](https://t.me/lmmm5) 🎖️
 git clone https://github.com/im-Hemo/Pinterest-Aiogram-bot.git
 ```
 ```bash
-cd Pinterest-Telegram-Bot
+cd Pinterest-Aiogram-bot
 ```
 put your bot token in Pinterest.py line 23 ✓
 ```bash
